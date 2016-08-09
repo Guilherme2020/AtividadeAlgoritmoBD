@@ -1,0 +1,8 @@
+{'Country': 'Alemanha', 'id': '8', 'Nome': 'Volkswagen'}
+{'Country': 'EUA', 'id': '7', 'Nome': 'General'}
+{'Country': 'Japao', 'id': '6', 'Nome': 'Nissan'}
+{'Country': 'Japao', 'id': '5', 'Nome': 'Toyota'}
+{'Country': 'franca', 'id': '4', 'Nome': 'renault'}
+{'Country': 'italia', 'id': '3', 'Nome': 'ferrari'}
+{'Country': 'alemanha', 'id': '2', 'Nome': 'Bmw'}
+{'Country': 'italia', 'id': '1', 'Nome': 'fiat'}
